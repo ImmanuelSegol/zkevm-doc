@@ -98,7 +98,7 @@ There are some natural dependencies such as between;
 
 The Polygon Hermez team has created two novel languages especially for the zkProver; The Zero-Knowledge Assembly language and the Polynomial Identity Language. 
 
-Since adopting the state machines paradigm means switching from highlevel programming to low-level programming, it is not suprising for the zkProve to employ an especially designed language for the firmware and another for the hardware.
+Since adopting the state machines paradigm means switching from highlevel programming to low-level programming, it is not suprising for the zkProver to employ an especially designed language for the firmware and another for the hardware.
 
 
 
